@@ -3,11 +3,11 @@ The datasets of article "Combining Dual Fluidized Bed and High-Temperature Gas-C
 
 User guider.docx: for user to use the software.
 
-forRunning.zip: execution file and basic input and output files.
+forRunning.rar: execution file and basic input and output files.
 
-input.zip: input files related to the cases in the article.
+input.rar: input files related to the cases in the article.
 
-output.zip: output files related to the cases in the article.
+output.rar: output files related to the cases in the article.
 
 economic evaluation.xlsx: datasets of the economic evaluation in the article.
 
