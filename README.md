@@ -5,9 +5,9 @@ User guider.docx: for user to use the software.
 
 forRunning.zip: execution file and basic input and output files.
 
-input.zip: input files related with the cases in the article.
+input.zip: input files related to the cases in the article.
 
-output.zip: output files related with the cases in the article.
+output.zip: output files related to the cases in the article.
 
 economic evaluation.xlsx: datasets of the economic evaluation in the article.
 
